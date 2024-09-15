@@ -10,18 +10,13 @@ Moreover, the impact of different aerosol regimes are studied. HALO will operate
 Towards a global coverage by locally validating EarthCARE. The upcoming EarthCARE satellite will become a spaceborne cloud observatory and will enable us to extend local studies to global scale. To establish confidence in EarthCARE products and inform their most intelligent use, we will intensively use HALO underflights for validation purposes.
 
 ---
-## Focus area
 
-<div style="background-color: rgb(220, 220, 220);">
-
-### The Intertropical Convergence Zone (ITCZ) -  Position, strength, and variability
+````{admonition} Position, strength, and variability of the Intertropical Convergence Zone
+:class: tip dropdown
 
 What controls the position, strength, and variability of tropical rainbelts (Bony et al, 2015)?
 
 Most tropical rain is concentrated within a narrow latitudinal band known as the Inter-Tropical Convergence Zone (ITCZ). This band shifts in position, width and longitude on tim    escales from days to millenia, with consequences for the billions of people who live within its reach.
-
-
-````{dropdown} Click for more
 
 ![](./figures/ITCZ_ferrel.jpg)
 *Figure 1. William Ferrel's schematic depiction of Earth’s surface wind. Figure taken from Birner et al, 2014 and adapted from Ferrel, 1856.*
@@ -124,8 +119,6 @@ PERCUSION will let us assess the realism of a new class of climate models that c
 
 The ITCZ's inner life will be characterized to a degree not seen since the GATE field campaign took place exactly fifty years ago (Frank, 1983). GATE took place at the dawn of the era of General Circulation Models to help guide their development and use for understanding global climate change. Is it not fitting that PERCUSION will take place at the dawn of the era of Global Storm Resolving Models, guiding their development and helping us to understand regional climate change?
 
-````
-
 ```{dropdown} References
 
 * **Birner et al, 2024** *The changing width of Earth’s tropical belt*
@@ -150,4 +143,4 @@ The ITCZ's inner life will be characterized to a degree not seen since the GATE 
 
 ```
 
-</div>
+````

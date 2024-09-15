@@ -11,9 +11,7 @@ Towards a global coverage by locally validating EarthCARE. The upcoming EarthCAR
 
 ---
 
-````{admonition} Position, strength, and variability of the Intertropical Convergence Zone
-:class: tip dropdown
-
+````{dropdown} Position, strength, and variability of the Intertropical Convergence Zone
 What controls the position, strength, and variability of tropical rainbelts (Bony et al, 2015)?
 
 Most tropical rain is concentrated within a narrow latitudinal band known as the Inter-Tropical Convergence Zone (ITCZ). This band shifts in position, width and longitude on tim    escales from days to millenia, with consequences for the billions of people who live within its reach.
@@ -93,7 +91,6 @@ The trouble with the energetic constraints on the ITCZ is that $\mathcal{M}$ dep
 **To summarize:** we know that Gross Moist Stability $\mathcal{M}$ is a key quantity in predicting the ITCZ's changes, but we don't understand it well because it is hidden within the ITCZ's inner life, that is, its dynamic and thermodynamic mesoscale structure.
 ```
 
-
 ###  Reassessing our view of the ITCZ
 
 To advance our understanding of what controls the position, strength and variability of the tropical rain belts, we must observe how clouds, winds, and precipitation couple to one another and influence the energetic budget we are trying to construct. Thus, we are not only interested in observing the mesocale circulations within and at the edges of the ITCZ, but also surface fluxes of moisture and heat, the distribution of cloud condensates and atmospheric radiative heating, and the dynamical evolution of vorticity and divergence.
@@ -120,7 +117,6 @@ PERCUSION will let us assess the realism of a new class of climate models that c
 The ITCZ's inner life will be characterized to a degree not seen since the GATE field campaign took place exactly fifty years ago (Frank, 1983). GATE took place at the dawn of the era of General Circulation Models to help guide their development and use for understanding global climate change. Is it not fitting that PERCUSION will take place at the dawn of the era of Global Storm Resolving Models, guiding their development and helping us to understand regional climate change?
 
 ```{dropdown} References
-
 * **Birner et al, 2024** *The changing width of Earth’s tropical belt*
 * **Bony et al, 2015** *Clouds, circulation and climate sensitivity*
 * **Bony et al, 2017** *EUREC4A: A Field Campaign to Elucidate the Couplings Between Clouds, Convection and Circulation*
@@ -140,7 +136,5 @@ The ITCZ's inner life will be characterized to a degree not seen since the GATE 
 * **Neelin and Held, 1987** *Modeling Tropical Convergence Based on the Moist Static Energy Budget*
 * **Pierrehumbert, 1995** *Thermostats, radiator fins, and the local runaway greenhouse effect*
 * **Philander et al, 1996** *Why the ITCZ Is Mostly North of the Equator*
-
 ```
-
 ````

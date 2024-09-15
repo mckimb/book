@@ -1,0 +1,70 @@
+categories:
+  ec_under:
+    long_name: "EarthCARE underpass"
+    tier: "a"
+  ec_track:
+    long_name: "Fly along EarthCARE track"
+    tier: "a"
+  ec_south:
+    long_name: "Extension (>100km) south of c_south along EarthCARE track"
+    tier: "b"
+  ec_north:
+    long_name: "Extension (>100km) north of c_north along EarthCARE track"
+    tier: "b"
+  c_north:
+    long_name: "North of center ITCZ circle"
+    tier: "a"
+  c_south:
+    long_name: "South of center ITCZ circle"
+    tier: "a"
+  c_mid:
+    long_name: "Circle within the ITCZ"
+    tier: "a"
+  c_atr:
+    long_name: "Circle coordinated with ATR flight legs"
+    tier: "b"
+  curtain:
+    long_name: "joint straight and level leg between two or more aircraft"
+    tier: "b"
+  sar_under:
+    long_name: "SAR coordination"
+    tier: "b"
+  pace_under:
+    long_name: "PACE coordination"
+    tier: "b"
+  gpm_under:
+    long_name: "GPM/Radar coordination"
+    tier:  "b"
+  meteor:
+    long_name: "RV Meteor coordination"
+    tier: "b"
+  ocsm:
+    long_name: "Ocean Science Center Mindelo overpass"
+    tier: "b"
+  bco:
+    long_name: "Barbados Cloud Observatory overpass"
+    tier: "b"
+  c_cloud:
+    long_name: "Circle a cloud"
+    tier: "b"
+  curtain:
+    long_name: "Dropsonde curtain thought the ITCZ"
+    tier: "b"
+  radar:
+    long_name: "Radar calibration"
+    tier: "b"
+  in_cloud:
+    long_name: "In-situ cloud measurements"
+    tier: "b"
+  spiral:
+    long_name: "Spiral ascent/descent"
+    tier: "b"
+  spiral_mindelo:
+    long_name: "Spiral ascent/descent over Mindelo supersite"
+    tier: "b"
+  cirrus:
+    long_name: "Cirrus transmissivity"
+    tier: "c"
+  insitu_aerosol:
+    long_name: "In-situ aerosol measurements"
+    tier: "c"

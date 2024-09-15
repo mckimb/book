@@ -1,20 +1,27 @@
 # Coordination
 
+```{admonition} ORCESTRA Logos
+:class: tip
+
+All sub-campaign logos as well as our corporate identity can be downloaded in various formats [**here**](https://owncloud.gwdg.de/index.php/s/EGZ22PE8mjOAPHS).
+
+```
+
 **ORCESTRA coordination**
 
 * General coordination and communication: [Yuting Wu](mailto:yuting.wu@mpimet.mpg.de) (MPI-M Hamburg, DE)
 
 
-ORCESTRA consits of many coordinated components with independent objectives. The science leads for these are:
+ORCESTRA consits of eight coordinated components with independent objectives. The science leads for these are:
 
-* BOWTIE: [Daniel Klocke](mailto:daniel.klocke@mpimet.mpg.de) (MPI-M Hamburg, DE), [Marcus Dengler](mailto:mdengler@geomar.de) (Geomar Kiel, DE)
-* CELLO: [Tim Carlsen](mailto:tim.carlsen@geo.uio.no), [Robert Oscar David](mailto:r.o.david@geo.uio.no) (University of Oslo, Oslo, NO )
-* CLARINET: [Holger Baars](mailto:baars@tropos.de), [Annett Skupin](mailto:skupin@tropos.de) (TROPOS, Leipzig, DE)
-* MAESTRO: [Sandrine Bony](mailto:sandrine.bony@lmd.ipsl.fr) (LMD/IPSL & CNRS, Paris, FR), [Julien Delanoë](mailto:julien.delanoe@latmos.ipsl.fr)(LATMOS/IPSL, UVSQ, FR) 
-* PERCUSION: [Silke Gross](mailto:silke.gross@dlr.de) (DLR-PA, Oberpfaffenhofen, DE), [Bjorn Stevens](mailto:bjorn.stevens@mpimet.mpg.de), [Julia Windmiller](mailto:julia.windmiller@mpimet.mpg.de) (MPI-M Hamburg, DE) 
-* PICCOLO: [Allison Wing](mailto:awing@fsu.edu) (Florida State University, Florida, USA)
-* SCORE: [Raphaela Vogel](mailto:raphaela.vogel@uni-hamburg.de) (University of Hamburg, Hamburg, DE)
-* STRINQS: [Geet George](mailto:g.george@tudelft.nl) (TU Delft, Delft, NL)
+* **BOWTIE**: [Daniel Klocke](mailto:daniel.klocke@mpimet.mpg.de) (MPI-M Hamburg, DE), [Marcus Dengler](mailto:mdengler@geomar.de) (Geomar Kiel, DE)
+* **CELLO**: [Tim Carlsen](mailto:tim.carlsen@geo.uio.no), [Robert Oscar David](mailto:r.o.david@geo.uio.no) (University of Oslo, Oslo, NO )
+* **CLARINET**: [Holger Baars](mailto:baars@tropos.de), [Annett Skupin](mailto:skupin@tropos.de) (TROPOS, Leipzig, DE)
+* **MAESTRO**: [Sandrine Bony](mailto:sandrine.bony@lmd.ipsl.fr) (LMD/IPSL & CNRS, Paris, FR), [Julien Delanoë](mailto:julien.delanoe@latmos.ipsl.fr)(LATMOS/IPSL, UVSQ, FR)
+* **PERCUSION**: [Silke Gross](mailto:silke.gross@dlr.de) (DLR-PA, Oberpfaffenhofen, DE), [Bjorn Stevens](mailto:bjorn.stevens@mpimet.mpg.de), [Julia Windmiller](mailto:julia.windmiller@mpimet.mpg.de) (MPI-M Hamburg, DE)
+* **PICCOLO**: [Allison Wing](mailto:awing@fsu.edu) (Florida State University, Florida, USA)
+* **SCORE**: [Raphaela Vogel](mailto:raphaela.vogel@uni-hamburg.de) (University of Hamburg, Hamburg, DE)
+* **STRINQS**: [Geet George](mailto:g.george@tudelft.nl) (TU Delft, Delft, NL)
 
 Furthermore ORCESTRA collaborates with local institutions on-site:
 
@@ -58,7 +65,6 @@ Furthermore ORCESTRA collaborates with local institutions on-site:
 * National Institute for Aerospace Research ([INCAS](http://www.incas.ro/)), Romania
 * Meteorological Institute Munich ([MIM](https://www.en.meteo.physik.uni-muenchen.de/index.html)) at LMU Munich, Germany
 * National Center for Space Studies ([CNES](https://cnes.fr/en)), France
-* National Institute for Aerospace Research ([INCAS](http://www.incas.ro/)), Romania
 * National Observatory of Athens ([NOA](https://www.noa.gr/en/)), Greece
 * [NOAA](https://psl.noaa.gov) Physical Science Laboratory, United States
 * Ocean Science Center Mindelo ([OSCM](https://www.oscm.cv)), Cabo Verde
@@ -74,6 +80,7 @@ Furthermore ORCESTRA collaborates with local institutions on-site:
 
 * Deutsche Forschungsgemeinschaft ([DFG](https://www.dfg.de/en)), Germany
 * Deutsches Zentrum fuer Luft- und Raumfahrt ([DLR](https://www.dlr.de/en)), Germany
+* Dutch Research Council (NWO) -- through its Domain Science (ENW) Open Competition grants, Netherlands
 * European Space Agency (ESA)
 * European Research Council 
 * German Federal Ministry of Education and Research (BMBF), Germany

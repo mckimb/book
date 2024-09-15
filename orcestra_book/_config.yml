@@ -3,7 +3,7 @@
 
 title: ORCESTRA
 author: The ORCESTRA Community
-logo: logos/orcestra.png
+logo: logos/00_FONT_ORCESTRA.svg
 exclude_patterns: ["_templates/*"]
 
 # Force re-execution of notebooks on each build.
@@ -35,6 +35,7 @@ sphinx:
     crew_table: _ext/
     flight_categories: _ext/
     front: _ext/
+    lam_videos: _ext/
     reports: _ext/
   config:
     bibtex_default_style: myapastyle
